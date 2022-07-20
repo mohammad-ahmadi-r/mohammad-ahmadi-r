@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mohammad-ahmadi-r
-- 👀 I’m interested in codes :))
-- 🌱 I’m currently learning A.I
-- 💞️ I’m looking to collaborate on backend developing
-- 📫 How to reach me mohamadamdd14@gmail.com
+- 👋 Hi, This is mohammad ahmadi,
+- 🌱 I’m currently upgrading my fornt-end skills, and developing my apps
+- 💞️ I’m looking to collaborate on backend or fullstack developing
+- 📫 How to reach me mamad.dezel14@gmail.com
 
 <!---
 mohammad-ahmadi-r/mohammad-ahmadi-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
