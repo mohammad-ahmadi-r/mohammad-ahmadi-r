@@ -1,4 +1,4 @@
-- 👋 Hi, This is mohammad ahmadi,
+- 👋 Hi, I'm mohammad ahmadi,
 - 🌱 I’m currently upgrading my fornt-end skills, and developing my apps
 - 💞️ I’m looking to collaborate on backend or fullstack developing
 - 📫 How to reach me mamad.dezel14@gmail.com
